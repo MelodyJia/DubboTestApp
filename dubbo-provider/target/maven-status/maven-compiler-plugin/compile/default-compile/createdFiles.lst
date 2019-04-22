@@ -1,0 +1,10 @@
+org\github\service\impl\RedisClient.class
+org\github\Test.class
+org\github\service\impl\C3P0Properties.class
+org\github\service\impl\CallbackServiceImpl$1.class
+org\github\service\impl\DubboDefaultTestServiceImpl.class
+org\github\module\MemcachedRegistryUtil.class
+org\github\controller\DubboProviderController.class
+org\github\service\impl\CallbackServiceImpl.class
+org\github\service\impl\RedisUtil.class
+org\github\module\RedisRegistryUtil.class
